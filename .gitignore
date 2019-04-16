@@ -1,9 +1,10 @@
 **/.settings/
 **/bin/
-**/.classpath/
-**/.project/
+**/.classpath
+**/.project
 
 .metadata/
 Algorithm/
 
 .git/
+.gitignore
